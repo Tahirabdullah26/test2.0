@@ -1,0 +1,41 @@
+/* style.css */
+h1{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+}
+p{
+    text-align: center;
+
+}
+body{
+    width: 1000px;
+    height: 100vh;
+    margin: 0%;
+     background-color: #1b1b32;
+    color: #f5f6f7;
+   /* background-image: url(https://c4.wallpaperflare.com/wallpaper/3/294/519/meme-background-cartoon-character-wallpaper-preview.jpg) */
+ /* background-size: 1000px; */
+}
+label{
+    display:block;
+    margin:0.5 0;
+    margin-bottom: 10px;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: rgba(127, 135, 125, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(225, 134, 174, 1.5);
+}
+label {
+  display: block;
+  margin-bottom: 0px;
+     border-radius: 5px;
+    padding: 10px;
+     background-color: rgba(250, 235, 255, 0.2);
+     box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
